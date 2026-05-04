@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi 👋, I'm Harsh Patil
 
-<!--
-**lannister26/lannister26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. in Artificial Intelligence (CGPA: 9.11)
+📍 Kalyan, Maharashtra, India
+💡 Aspiring Data Analyst | ML Engineer | AI Enthusiast
 
-Here are some ideas to get you started:
+🚀 About Me
+🔍 Passionate about turning data into insights
+🤖 Built ML models for prediction & classification
+📊 Love creating dashboards using Power BI
+🧠 Exploring Generative AI
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | SQL | Pandas | NumPy | Scikit-learn | Power BI | Excel
+
+📂 Projects
+📈 Stock Price Prediction
+📊 Sales Dashboard
+
+👉 Check my repositories below 👇
+
+📫 Contact
+LinkedIn: https://linkedin.com/in/harsh-patil
+Email: harsh081224@gmail.com
