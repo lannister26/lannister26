@@ -1,24 +1,43 @@
-Hi 👋, I'm Harsh Patil
+<h1 align="center">Hi, I'm Harsh Patil 👋</h1>
 
-🎓 M.Sc. in Artificial Intelligence (CGPA: 9.11)
-📍 Kalyan, Maharashtra, India
-💡 Aspiring Data Analyst | ML Engineer | AI Enthusiast
+<p align="center">
+  AI & Data Analytics enthusiast building practical dashboards, ML projects, and developer tools.
+</p>
 
-🚀 About Me
-🔍 Passionate about turning data into insights
-🤖 Built ML models for prediction & classification
-📊 Love creating dashboards using Power BI
-🧠 Exploring Generative AI
-🛠️ Tech Stack
+<p align="center">
+  <a href="https://github.com/lannister26?tab=repositories">Projects</a> •
+  <a href="mailto:harsh081224@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+</p>
 
-Python | SQL | Pandas | NumPy | Scikit-learn | Power BI | Excel
+---
 
-📂 Projects
-📈 Stock Price Prediction
-📊 Sales Dashboard
+### 🚀 Featured Projects
 
-👉 Check my repositories below 👇
+| Project | What it does | Tech |
+|---|---|---|
+| InsightPilot AI | AI-powered insight generation project | Python / AI / Data |
+| GPU Stock Price Estimation | Stock prediction project for GPU companies | Python / ML |
+| Sales Data Analysis Dashboard | Business analytics dashboard | Excel / Power BI / Data |
+| Vault Calculator | Android calculator app with UI screenshots | Android |
 
-📫 Contact
-LinkedIn: https://linkedin.com/in/harsh-patil
-Email: harsh081224@gmail.com
+---
+
+### 🧠 What I'm Focused On
+
+- Building AI-powered data tools  
+- Improving ML and analytics projects  
+- Creating clean dashboards and useful apps  
+- Writing better documentation and project READMEs  
+
+---
+
+### 🛠️ Tech Stack
+
+`Python` `Machine Learning` `Data Analytics` `Power BI` `Excel` `Android` `GitHub`
+
+---
+
+### 📌 Current Goal
+
+Making my GitHub portfolio clean, active, and professional by shipping small but polished projects consistently.
