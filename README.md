@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/lannister26?tab=repositories">Projects</a> •
   <a href="mailto:harsh081224@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/harsh-patil-476435207">LinkedIn</a>
 </p>
 
 ---
