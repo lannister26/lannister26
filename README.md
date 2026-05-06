@@ -23,11 +23,11 @@ Building practical AI tools, dashboards, machine-learning projects, and clean us
 
 ## 👨‍💻 About Me
 
-I am focused on building projects that combine **AI, data analytics, automation, dashboards, and clean UI design**.  
+I am focused on building projects that combine **Artificial Intelligence, Data Analytics, Machine Learning, and clean UI design**.  
 My goal is to create portfolio projects that are not only technically strong, but also easy to understand, visually polished, and useful in real-world scenarios.
 
 - 🔭 Currently building advanced AI and data-focused projects  
-- 📊 Interested in dashboards, machine learning, business intelligence, and automation  
+- 📊 Interested in data analytics, machine learning, and intelligent automation  
 - 🧠 Learning how to build industry-ready projects with clean architecture  
 - 🎯 Goal: become stronger in AI, analytics, and full project development  
 - ✨ I believe good projects should be useful, readable, and beautifully presented  
@@ -111,46 +111,14 @@ My goal is to create portfolio projects that are not only technically strong, bu
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 <br/><br/>
 
 ### Areas of Interest
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Business%20Intelligence-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%20Design-0D1117?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lannister26&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannister26&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lannister26&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lannister26&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=orange" />
 
 </div>
 
