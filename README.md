@@ -176,12 +176,4 @@ I have hands-on experience with **Python, SQL, Scikit-learn, Pandas, Power BI, a
 - **Smart Home Automation Using Arduino** — IRJMETS
 - **Deepfakes in Phishing and Social Engineering Attacks** — B.K. Birla College, Kalyan
 
----
 
-## 📌 Current Focus
-
-```text
-Building stronger AI + Data Analytics projects
-Improving project documentation and GitHub presentation
-Creating machine-learning models and business dashboards
-Learning professional development workflows with issues, PRs, and clean commits
